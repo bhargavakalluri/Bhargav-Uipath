@@ -118,7 +118,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <uascw:ExtractFiles Content="{x:Null}" DestinationFolderInfo="{x:Null}" File="{x:Null}" Password="{x:Null}" CodePage="Default" DestinationFolder="C:\Users\bkalluri\Desktop\UIPathProjects\ExtractZipfolder" DisplayName="Extract/Unzip Files" ExtractToADedicatedFolder="False" FileToExtract="C:\Users\bkalluri\Desktop\UIPathProjects\ExtractCSVFile.zip" sap:VirtualizedContainerService.HintSize="510,214.66666666666666" sap2010:WorkflowViewState.IdRef="ExtractFiles_1" SkipUnsupportedFiles="False" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="510,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;successfully unzipped the folder&quot;]" />
+    <ui:LogMessage DisplayName="Log Message1" sap:VirtualizedContainerService.HintSize="510,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;successfully unzipped the folders&quot;]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="510,96" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;Newly Added Log&quot;]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="510,96" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;checking code commit&quot;]" />
     <Assign sap:VirtualizedContainerService.HintSize="510,85.33333333333333" sap2010:WorkflowViewState.IdRef="Assign_3">
